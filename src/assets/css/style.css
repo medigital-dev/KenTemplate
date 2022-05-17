@@ -1,0 +1,28 @@
+section {
+    padding-top: 3rem;
+  }
+
+  .feature_icon {
+    width: 150px;
+    height: 150px;
+  }
+
+  .navbar {
+    min-height: 5rem;
+  }
+
+  .icon_link {
+    text-decoration: none;
+  }
+
+  @media (max-width: 320px) {
+    .icon {
+      font-size: .3rem;
+    }
+  }
+
+  @media (max-width: 700px) {
+    .icon {
+      font-size: .55rem;
+    }
+  }
