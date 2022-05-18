@@ -1,5 +1,7 @@
 # Selamat Datang di Repositori ini
- Website template untuk perusahaan, profil pribadi, Universitas maupun sekolah, dan lain-lain. Silahkan gunakan secara gratis. Jangan lupa kasih cendol gan.
+ Template ini bisa anda gunakan untuk membuat website perusahaan, profil pribadi, Universitas maupun sekolah, dan lain-lain. Silahkan anda gunakan dan modifikasi secara gratis.
+ 
+ Don't forget to hit star and say thankyou.
 
 # Fitur
  * Multi level menu
@@ -14,6 +16,9 @@
  * JQuery
 
 # Ketentuan Penggunaan
+ * Mohon sertakan credit di bagian footer untuk menghargai karya ini.
+ * Anda berhak memodifikasi (menambah dan atau mengurangi) script maupun konten yang ada dalam template ini.
+ * Segala akibat dari modifikasi tersebut sepenuhnya menjadi tanggung jawab Anda.
 
 # Thanks
  * [unsplash.com](https://unsplash.com/)
