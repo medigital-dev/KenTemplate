@@ -1,5 +1,5 @@
 # Selamat Datang di Repositori ini
- Template ini bisa anda gunakan untuk membuat website perusahaan, profil pribadi, Universitas maupun sekolah, dan lain-lain. Silahkan anda gunakan dan modifikasi secara gratis.
+ Template ini bisa anda gunakan untuk membuat website perusahaan, profil pribadi, Universitas maupun sekolah, dan lain-lain. Silahkan anda gunakan dan modifikasi sesuka hati anda secara gratis.
  
  Don't forget to hit star and say thankyou.
 
@@ -25,4 +25,4 @@
    * bla bla
 
 # Lisensi
- &copy; 2022 Desain by [@mesaidlg](https://github.com/mesaidlg) dibawah lisensi MIT dan [Ketentuan Penggunaan](#ketentuan-penggunaan).
+ &copy; 2022 Desain by [@mesaidlg](https://github.com/mesaidlg) dibawah [lisensi MIT](LICENSE) dan [Ketentuan Penggunaan](#ketentuan-penggunaan).
