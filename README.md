@@ -1,2 +1,2 @@
 # Selamat Datang
- (/screenshoot/header.png)
+ ![Screenshoot header](/screenshoot/header.png)
