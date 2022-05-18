@@ -11,7 +11,7 @@
  * Responsive 
 
 # Screenshoot
- [Cek](screenshoot/)
+ [Cek di sini](screenshoot/)
 
 # Base
  * Bootstrap 5.1.3
@@ -24,8 +24,8 @@
  * Segala akibat dari modifikasi tersebut sepenuhnya menjadi tanggung jawab Anda.
 
 # Pages
- [Demo](https://mesaidlg.github.io/KenTemplate)
- [Docs](https://mesaidlg.github.io/KenTemplate/docs)
+ * [Demo](https://mesaidlg.github.io/KenTemplate)
+ * [Docs](https://mesaidlg.github.io/KenTemplate/docs)
 
 # Donasi
 Mari berdonasi biar semangat membuat template-template yang lain secara gratis, sampaikan donasi anda melalui:
@@ -42,10 +42,11 @@ Jangan lupa konfirmasi melalui [kontak](#kontak), supaya saya kenal anda.
  Butuh aplikasi CMS untuk template ini? Silahkan [kontak](#kontak).
 
 # Thanks
+ * [Bootstrap](https://getbootstrap.com)
  * [unsplash.com](https://unsplash.com/) - Image
 
 # Kontak saya
  [Hubungi saya di sini](https://mesaidlg.github.io).
- 
+
 # Lisensi
  &copy; 2022 Desain by [@mesaidlg](https://github.com/mesaidlg) dibawah [lisensi MIT](LICENSE) dan [Ketentuan Penggunaan](#ketentuan-penggunaan).
