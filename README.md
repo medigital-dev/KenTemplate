@@ -21,8 +21,7 @@
  * Segala akibat dari modifikasi tersebut sepenuhnya menjadi tanggung jawab Anda.
 
 # Thanks
- * [unsplash.com](https://unsplash.com/)
-   * bla bla
+ * [unsplash.com](https://unsplash.com/) - Image
 
 # Lisensi
  &copy; 2022 Desain by [@mesaidlg](https://github.com/mesaidlg) dibawah [lisensi MIT](LICENSE) dan [Ketentuan Penggunaan](#ketentuan-penggunaan).
