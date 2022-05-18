@@ -1,4 +1,7 @@
-# Selamat Datang di Repositori ini
+# KenTemplate by @mesaidlg
+ ![Screenshoot header](/screenshoot/header.png)
+ 
+# Intro
  Template ini bisa anda gunakan untuk membuat website perusahaan, profil pribadi, Universitas maupun sekolah, dan lain-lain. Silahkan anda gunakan dan modifikasi sesuka hati anda secara gratis.
  
  Don't forget to hit star and say thankyou.
@@ -8,14 +11,12 @@
  * Responsive 
 
 # Screenshoot
- ![Screenshoot header](/screenshoot/header.png)
-
- [other](screenshoot/)
+ [Cek](screenshoot/)
 
 # Base
  * Bootstrap 5.1.3
- * Fontawesome 6.0
- * JQuery
+ * Fontawesome 6.0.0
+ * JQuery 3.6.0
 
 # Ketentuan Penggunaan
  * Mohon sertakan credit di bagian footer untuk menghargai karya ini.
