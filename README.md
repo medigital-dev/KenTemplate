@@ -23,8 +23,29 @@
  * Anda berhak memodifikasi (menambah dan atau mengurangi) script maupun konten yang ada dalam template ini.
  * Segala akibat dari modifikasi tersebut sepenuhnya menjadi tanggung jawab Anda.
 
+# Pages
+ [Demo](https://mesaidlg.github.io/KenTemplate)
+ [Docs](https://mesaidlg.github.io/KenTemplate/docs)
+
+# Donasi
+Mari berdonasi biar semangat membuat template-template yang lain secara gratis, sampaikan donasi anda melalui:
+- BCA: 8950501198
+- BRI: 698801015723534
+- BPD DIY: 002211019059
+- e-wallet (OVO/Gopay/Shopee Pay/Dana): 087839301572
+
+Semua atas nama **MUHAMMAD SAID LATIF GHOFARI**.
+
+Jangan lupa konfirmasi melalui [kontak](#kontak), supaya saya kenal anda.
+
+# Content Management System
+ Butuh aplikasi CMS untuk template ini? Silahkan [kontak](#kontak).
+
 # Thanks
  * [unsplash.com](https://unsplash.com/) - Image
 
+# Kontak saya
+ [Hubungi saya di sini](https://mesaidlg.github.io).
+ 
 # Lisensi
  &copy; 2022 Desain by [@mesaidlg](https://github.com/mesaidlg) dibawah [lisensi MIT](LICENSE) dan [Ketentuan Penggunaan](#ketentuan-penggunaan).
