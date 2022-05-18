@@ -18,51 +18,53 @@
 </head>
 
 <body>
-  <!-- <section id="navbar"> -->
-  <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top shadow">
-    <div class="container px-4">
-      <a class="navbar-brand" href="#">Your Company</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">
-              Dropdown
-            </a>
-            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <li><a class="dropdown-item" href="#">Level 1</a></li>
-              <li class="dropend">
-                <a class="dropdown-item dropdown-toggle" id="navbarDropdown2" href="#" data-bs-toggle="dropdown">Sub Menu</a>
-                <ul class="dropdown-menu" aria-labelledby="navbarDropdown2">
-                  <li><a class="dropdown-item" href="#">Level 2</a></li>
-                </ul>
-              </li>
-              <li>
-                <hr class="dropdown-divider">
-              </li>
-              <li><a class="dropdown-item" href="#">Level 1</a></li>
-            </ul>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link disabled" href="#!">Disabled</a>
-          </li>
-        </ul>
-        <form class="d-flex">
-          <input class="form-control me-2" type="text" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-success" type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
-        </form>
+  <section id="top-navbar">
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top shadow">
+      <div class="container px-4">
+        <a class="navbar-brand" href="#">Your Company</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Link</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">
+                Dropdown
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <li><a class="dropdown-item" href="#">Level 1</a></li>
+                <li class="dropend">
+                  <a class="dropdown-item dropdown-toggle" id="navbarDropdown2" href="#" data-bs-toggle="dropdown">Sub Menu</a>
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdown2">
+                    <li><a class="dropdown-item" href="#">Level 2</a></li>
+                  </ul>
+                </li>
+                <li>
+                  <hr class="dropdown-divider">
+                </li>
+                <li><a class="dropdown-item" href="#">Level 1</a></li>
+              </ul>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link disabled" href="#!">Disabled</a>
+            </li>
+          </ul>
+          <form class="d-flex">
+            <input class="form-control me-2" type="text" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success" type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+          </form>
+        </div>
       </div>
-    </div>
-  </nav>
-  <!-- </section> -->
+    </nav>
+  </section>
+
   <section id="heroes">
     <div class="container col-xxl-12 py-3 px-5">
       <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
@@ -391,7 +393,7 @@
         </div>
       </div>
 
-      <div class="d-flex justify-content-between pt-4 my-2 border-top">
+      <div class="d-flex justify-content-between pt-4 pb-5 my-2 border-top">
         <p>&copy; 2022 <a href="./" target="_blank" class="text-dark text-decoration-none">Your Company</a>.</p>
         <a href="https://github.com/mesaidlg" target="_blank" class="text-dark text-decoration-none"><i class="fa-brands fa-github fa-lg me-1"></i>@mesaidlg</a>
         <ul class="list-unstyled d-flex">
@@ -424,6 +426,15 @@
       </div>
     </footer>
   </div>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-bottom">
+    <div class="container-fluid">
+      <ul class="list-unstyled d-flex m-0 flex-row mx-auto py-1">
+  <li class="px-2"><a href="https://mesaidlg.github.io" class="text-decoration-none text-white" target="_blank"><i class="fa-brands fa-github fa-fw"></i>mesaidlg</a></li>
+  <li class="px-2"><a href="https://github.com/mesaidlg/Template_Company-Profile" class="text-decoration-none text-white" target="_blank"><i class="fa-solid fa-file-code fa-fw"></i>Repository</a></li>
+  <li class="px-2"><a href="docs/" class="text-decoration-none text-white" target="_blank"><i class="fa-solid fa-circle-question fa-fw"></i>Docs</a></li>
+</ul>
+    </div>
+  </nav>
 
   <!-- Bootstrap Bundle with Popper -->
   <script src="plugins/bootstrap/js/bootstrap.bundle.min.js"></script>

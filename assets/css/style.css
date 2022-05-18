@@ -7,7 +7,7 @@ section {
     height: 150px;
   }
 
-  .navbar {
+  #top-navbar .navbar {
     min-height: 5rem;
   }
 
