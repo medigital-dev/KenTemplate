@@ -10,6 +10,8 @@
 # Screenshoot
  ![Screenshoot header](/screenshoot/header.png)
 
+ [other](screenshoot/)
+
 # Base
  * Bootstrap 5.1.3
  * Fontawesome 6.0
