@@ -45,7 +45,7 @@ Jangan lupa konfirmasi melalui [kontak](#kontak), supaya saya kenal anda.
  * [Bootstrap](https://getbootstrap.com)
  * [unsplash.com](https://unsplash.com/) - Image
 
-# Kontak saya
+# Kontak
  [Hubungi saya di sini](https://mesaidlg.github.io).
 
 # Lisensi
