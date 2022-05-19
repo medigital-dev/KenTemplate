@@ -1,5 +1,7 @@
-# KenTemplate - Free HTML Template
- ![Screenshoot header](/screenshoot/header.png)
+# KenTemplate
+ ![Screenshoot header](/screenshoot/header.png)  
+ <center>**Free HTML Template**</center>  
+ <center>***[Demo](https://mesaidlg.github.io/KenTemplate/demo) - [Docs](https://mesaidlg.github.io/KenTemplate/docs)***</center>
  
 # Table of Content
  * [Top](#kentemplate---free-html-template)
@@ -43,7 +45,8 @@
  * Saya akan sangat berterimakasih jika anda menyertakan sumber ini pada website Anda.
 
 # Pages
- * [Demo](https://mesaidlg.github.io/KenTemplate)
+ * [Homepage](https://mesaidlg.github.io/KenTemplate)
+ * [Demo](https://mesaidlg.github.io/KenTemplate/demo)
  * [Docs](https://mesaidlg.github.io/KenTemplate/docs)
 
 # Instalasi
