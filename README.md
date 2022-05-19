@@ -1,7 +1,7 @@
 # KenTemplate
  ![Screenshoot header](/screenshoot/header.png)  
- <center>**Free HTML Template**</center>  
- <center>***[Demo](https://mesaidlg.github.io/KenTemplate/demo) - [Docs](https://mesaidlg.github.io/KenTemplate/docs)***</center>
+ **Free HTML Template**  
+ ***[Demo](https://mesaidlg.github.io/KenTemplate/demo) - [Docs](https://mesaidlg.github.io/KenTemplate/docs)***
  
 # Table of Content
  * [Top](#kentemplate---free-html-template)
