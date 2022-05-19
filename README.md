@@ -1,7 +1,7 @@
 # KenTemplate
  ![Screenshoot header](/screenshoot/header.png)  
  **KenTemplate - Free HTML Template**  
- **[Demo](https://mesaidlg.github.io/KenTemplate/demo) - [Docs](https://mesaidlg.github.io/KenTemplate/docs)**
+ **[Homepage](https://mesaidlg.github.io/KenTemplate) - [Demo](https://mesaidlg.github.io/KenTemplate/demo) - [Docs](https://mesaidlg.github.io/KenTemplate/docs)**
  
 # Table of Content
  * [Top](#kentemplate---free-html-template)
@@ -11,7 +11,6 @@
  * [Screenshoot](#screenshoot)
  * [Base](#base)
  * [ToS](#ketentuan-penggunaan)
- * [Page](#pages)
  * [Instalasi](#instalasi)
  * [Need CMS?](#content-management-system-cms)
  * [Thanks to](#thanks)
@@ -55,7 +54,7 @@
  * Done.
 
 # Content Management System (CMS)
- Butuh aplikasi CMS untuk template ini? Silahkan [kontak](#kontak).
+ Butuh aplikasi CMS untuk template ini? Silahkan [kontak saya](#kontak).
 
 # Thanks
  * [Bootstrap](https://getbootstrap.com)
