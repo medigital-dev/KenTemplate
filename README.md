@@ -70,4 +70,4 @@
  Support saya di:
  * [Trakteer.id](https://trakteer.id/mesaidlg/tip)
  * [ko-fi.com](https://ko-fi.com/mesaidlg)
- * [buymeacofee.com](buymeacoffee.com/mesaidlg)
+ * [buymeacofee.com](https://buymeacoffee.com/mesaidlg)
