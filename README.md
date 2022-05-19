@@ -1,6 +1,6 @@
 # KenTemplate - Free HTML Template
  ![Screenshoot header](/screenshoot/header.png)
-
+ 
 # Table of Content
  * [Top](#kentemplate---free-html-template)
  * [Table of Content](#table-of-content)
@@ -11,11 +11,11 @@
  * [ToS](#ketentuan-penggunaan)
  * [Page](#pages)
  * [Instalasi](#instalasi)
- * [Support](#support)
  * [Need CMS?](#content-management-system-cms)
  * [Thanks to](#thanks)
  * [Kontak](#kontak)
  * [Licence](#lisensi)
+ * [Donation](#donation)
  
 # Intro
  Template HTML ini bisa anda gunakan untuk membuat website perusahaan, profil pribadi, Universitas maupun sekolah, dan lain sebagainya. Desain yang simpel membuat load menjadi lebih cepat. Responsive untuk segala perangkat. Desain yang modern membuat tampilan yang enak dipandang. Silahkan anda gunakan dan modifikasi sesuka hati anda secara gratis.
@@ -52,11 +52,6 @@
  * Extract ke root folder.
  * Done.
 
-# Support
- Butuh kopi gan biar melek.
-
- Jangan lupa konfirmasi melalui [kontak](#kontak), supaya saya kenal anda.
-
 # Content Management System (CMS)
  Butuh aplikasi CMS untuk template ini? Silahkan [kontak](#kontak).
 
@@ -71,3 +66,9 @@
 
 # Lisensi
  &copy; 2022 Desain by [@mesaidlg](https://mesaidlg.github.io) dibawah [lisensi MIT](LICENSE) dan [Ketentuan Penggunaan](#ketentuan-penggunaan).
+ 
+# Donation
+ Support saya di:
+ * [Trakteer.id](https://trakteer.id/mesaidlg/tip)
+ * [ko-fi.com](https://ko-fi.com/mesaidlg)
+ * [buymeacofee.com](buymeacoffee.com/mesaidlg)
