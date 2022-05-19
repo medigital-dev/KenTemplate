@@ -18,8 +18,7 @@
  * [Donation](#donation)
  
 # Intro
- Template HTML ini bisa anda gunakan untuk membuat website perusahaan, profil pribadi, Universitas maupun sekolah, dan lain sebagainya. Desain yang simpel membuat load menjadi lebih cepat. Responsive untuk segala perangkat. Desain yang modern membuat tampilan yang enak dipandang. Silahkan anda gunakan dan modifikasi sesuka hati anda secara gratis.
- 
+ Template HTML ini bisa anda gunakan untuk membuat website perusahaan, profil pribadi, Universitas maupun sekolah, dan lain sebagainya. Desain yang simpel membuat load menjadi lebih cepat. Responsive untuk segala perangkat. Desain yang modern membuat tampilan yang enak dipandang. Silahkan anda gunakan dan modifikasi sesuka hati anda secara gratis.   
  Don't forget to hit star and say thankyou.
 
 # Fitur
@@ -61,7 +60,7 @@
  * [unsplash.com](https://unsplash.com/) - Untuk Gambar pada halaman demo
 
 # Kontak
- * [Whatsapp](https://wa.me/+6287839301572).
+ * [Whatsapp](https://wa.me/+6287839301572)
  * [Email](mesaidlg@gmail.com)
 
 # Lisensi
