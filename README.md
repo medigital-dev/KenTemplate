@@ -1,22 +1,7 @@
 # KenTemplate
  ![Screenshoot header](/screenshoot/header.png)  
  **KenTemplate - Free HTML Template**  
- **[Homepage](https://mesaidlg.github.io/KenTemplate) - [Demo](https://mesaidlg.github.io/KenTemplate/demo) - [Docs](https://mesaidlg.github.io/KenTemplate/docs)**
- 
-# Table of Content
- * [Top](#kentemplate---free-html-template)
- * [Table of Content](#table-of-content)
- * [Intro](#intro)
- * [Fitur](#fitur)
- * [Screenshoot](#screenshoot)
- * [Base](#base)
- * [ToS](#ketentuan-penggunaan)
- * [Instalasi](#instalasi)
- * [Need CMS?](#content-management-system-cms)
- * [Thanks to](#thanks)
- * [Kontak](#kontak)
- * [Licence](#lisensi)
- * [Donation](#donation)
+ **[Homepage](https://medigital-dev.github.io/KenTemplate) - [Demo](https://medigital-dev.github.io/KenTemplate/demo) - [Docs](https://medigital-dev.github.io/KenTemplate/docs)**
  
 # Intro
  Template HTML ini bisa anda gunakan untuk membuat website perusahaan, profil pribadi, Universitas maupun sekolah, dan lain sebagainya. Desain yang simpel membuat load menjadi lebih cepat. Responsive untuk segala perangkat. Desain yang modern membuat tampilan yang enak dipandang. Silahkan anda gunakan dan modifikasi sesuka hati anda secara gratis.   
@@ -44,9 +29,9 @@
  * Saya akan sangat berterimakasih jika anda menyertakan sumber ini pada website Anda.
 
 # Pages
- * [Homepage](https://mesaidlg.github.io/KenTemplate)
- * [Demo](https://mesaidlg.github.io/KenTemplate/demo)
- * [Docs](https://mesaidlg.github.io/KenTemplate/docs)
+ * [Homepage](https://medigital-dev.github.io/KenTemplate)
+ * [Demo](https://medigital-dev.github.io/KenTemplate/demo)
+ * [Docs](https://medigital-dev.github.io/KenTemplate/docs)
 
 # Instalasi
  * Download pada release page.
@@ -66,7 +51,7 @@
  * [Email](mesaidlg@gmail.com)
 
 # Lisensi
- &copy; 2022 Desain by [@mesaidlg](https://mesaidlg.github.io) dibawah [lisensi MIT](LICENSE) dan [Ketentuan Penggunaan](#ketentuan-penggunaan).
+ &copy; 2022 Desain by [@mesaidlg](https://muhsaidlg.my.id) dibawah [lisensi MIT](LICENSE) dan [Ketentuan Penggunaan](#ketentuan-penggunaan).
  
 # Donation
  Support saya di:
